@@ -23,7 +23,7 @@ A\b
 A = randn(4,3);
 
 % its QR decomposition
-[Q,R] = qr(A);
+[Q,R] = qr(A); % add ,"econ" to get economy decomposition
 
 
 %% Section 13.11, code block 13.6
