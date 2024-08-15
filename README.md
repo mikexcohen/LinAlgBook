@@ -1,4 +1,4 @@
-# LinAlgBook
+# Linear algebra book
 
 This is all the code that accompanies the book "Linear Algebra: Theory, Intuition, Code"
 
@@ -11,3 +11,11 @@ https://alexander-pastukhov.github.io/cohen-linear-algebra/
 
 And for an indepenedent translation into C++, see:
 https://github.com/thehoglet/LinAlgBook
+
+# SPANISH TRANSLATION
+
+The book has been expertly translated into Spanish by [Diana Llorente](https://spanishtechnicaltranslations.com/).
+
+You can find it here:
+[https://www.amazon.es/dp/B0DC6QY81S/](https://www.amazon.es/dp/B0DC6QY81S/)
+
