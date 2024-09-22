@@ -4,6 +4,8 @@ This is all the code that accompanies the book "Linear Algebra: Theory, Intuitio
 
 https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604
 
+Check out the free sample chapter on matrix multiplications! 
+
 
 
 Note: For an independent translation of the book code into R, see the following link:
