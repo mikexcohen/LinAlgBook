@@ -18,6 +18,8 @@ https://github.com/thehoglet/LinAlgBook
 
 The book has been expertly translated into Spanish by [Diana Llorente](https://spanishtechnicaltranslations.com/).
 
+Check out the free sample chapter on matrix multiplications!
+
 You can find it here:
 [https://www.amazon.es/dp/B0DC6QY81S/](https://www.amazon.es/dp/B0DC6QY81S/)
 
