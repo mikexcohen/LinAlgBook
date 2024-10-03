@@ -4,6 +4,8 @@ This is all the code that accompanies the book "Linear Algebra: Theory, Intuitio
 
 https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604
 
+You can inspect the Table of Contents (TOC) and read chapter 1.
+
 Check out the free sample chapter on matrix multiplications! 
 
 
@@ -17,6 +19,9 @@ https://github.com/thehoglet/LinAlgBook
 # SPANISH TRANSLATION
 
 The book has been expertly translated into Spanish by [Diana Llorente](https://spanishtechnicaltranslations.com/).
+
+
+You can inspect the Table of Contents (TOC) and read chapter 1.
 
 Check out the free sample chapter on matrix multiplications!
 
