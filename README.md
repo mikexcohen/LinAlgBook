@@ -16,6 +16,10 @@ Preview the book:
 
 This repository contains all Python code from the book. Each chapter's concepts are implemented as standalone scripts and Jupyter notebooks that you can run, modify, and learn from.
 
+## Discord server
+
+Join the Discord server for questions and support: [https://discord.gg/t9UAkKyR95](https://discord.gg/t9UAkKyR95)
+
 ## Translations
 
 ### Spanish Edition
