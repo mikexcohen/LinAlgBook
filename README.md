@@ -6,7 +6,7 @@ A hands-on approach to mastering linear algebra through Python code and mathemat
 
 This book teaches linear algebra from the ground up, combining rigorous theory with practical Python implementations. Each concept is explained with clear intuition, mathematical formalism, and working code.
 
-**[View on Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604)** | **PDF version coming soon!**
+**[Paperback on Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604)** | **[PDF version](https://mikexcohen.gumroad.com/l/linearalgebra)**
 
 Preview the book:
 - [Table of Contents](https://github.com/mikexcohen/LinAlgBook/blob/main/TOC_ch1.pdf)
@@ -49,7 +49,7 @@ The book's code has been independently translated by the community:
 |--------|------|
 | Paperback | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
 | Kindle | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
-| PDF | Coming soon! |
+| PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra) |
 | Spanish Paperback/Kindle | [Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/) |
 
 ## About the Author
