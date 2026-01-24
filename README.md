@@ -7,6 +7,7 @@ A hands-on approach to mastering linear algebra through Python code and mathemat
 This book teaches linear algebra from the ground up, combining rigorous theory with practical Python implementations. Each concept is explained with clear intuition, mathematical formalism, and working code.
 
 **[Paperback on Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604)** | **[PDF version](https://mikexcohen.gumroad.com/l/linearalgebra)**
+| **[Spanish PDF](https://mikexcohen.gumroad.com/l/linearalgebra_es)**
 
 Preview the book:
 - [Table of Contents](https://github.com/mikexcohen/LinAlgBook/blob/main/TOC_ch1.pdf)
@@ -25,7 +26,8 @@ Join the Discord server for questions and support: [https://discord.gg/t9UAkKyR9
 ### Spanish Edition
 Expertly translated by [Diana Llorente](https://spanishtechnicaltranslations.com/)
 
-**[Available on Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/)**
+**[Available on Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/)** | 
+**[Available as pdf](https://mikexcohen.gumroad.com/l/linearalgebra_es)**
 
 Preview:
 - [Tabla de Contenidos](https://github.com/mikexcohen/LinAlgBook/blob/main/ES_TOC_cap1.pdf)
@@ -50,7 +52,8 @@ The book's code has been independently translated by the community:
 | Paperback | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
 | Kindle | [Amazon](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604) |
 | PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra) |
-| Spanish Paperback/Kindle | [Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/) |
+| SPANISH PDF | [Gumroad](https://mikexcohen.gumroad.com/l/linearalgebra_es) |
+| SPANISH Paperback/Kindle | [Amazon.es](https://www.amazon.es/dp/B0DC6QY81S/) |
 
 ## About the Author
 
